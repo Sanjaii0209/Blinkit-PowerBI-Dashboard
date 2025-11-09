@@ -78,3 +78,6 @@ Interactive slicers for Outlet Size, Location Type, and Item Category.
 Visual breakdowns for Sales by Item Type, Fat Content, and Outlet Performance.
 
 Comparative trend analysis over Outlet Establishment Years.
+
+## 🔽 Download the Power BI File
+You can download and open the dashboard using [Blinkit.pbix](./Blinkit.pbix) in *Power BI Desktop*.
